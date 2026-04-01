@@ -12,7 +12,7 @@ AI-powered **Code-to-Code Translator** that detects design patterns in Java/Java
 ## Features
 
 - **Design Pattern Detection**: Singleton, Factory Method, Repository (Java/JS)
-- **Code Translation**: Java ↔ JavaScript pattern equivalents
+- **Code Translation**: Java ↔ JavaScript, Python to Java pattern equivalents
 - **PMD Integration**: Custom rules for pattern matching
 - **ML Pipeline**: Trained models in `module4_documentation/` for advanced detection
 - **Fullstack App**: React UI + Flask API + Streamlit dashboard
